@@ -9,7 +9,7 @@ struct datetype
 };
 
 bool isleapyear(int year);
-string zellercongruence(int ){}
+string zellercongruence(int d , int m , int Y,int C ){}
 
 int main(){
     datetype date;
