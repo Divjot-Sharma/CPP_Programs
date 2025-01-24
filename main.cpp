@@ -28,7 +28,8 @@ int main(){
         break;
     default:
         break;
-    }
+    } 
+    cout<< "The Day is : "<< zellercongruence(date.num,m,y/100,y/1000s) << endl;
 
 }
 
